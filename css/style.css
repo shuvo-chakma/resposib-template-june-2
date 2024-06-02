@@ -1,0 +1,10 @@
+.box{
+    height: 100vh;
+    background-color: #626262;
+    text-align: center;
+    
+}
+.text{
+    color: whitesmoke;
+    font-size: 80px;
+}
